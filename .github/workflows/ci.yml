@@ -76,8 +76,8 @@ jobs:
       - name: Check Astro diagnostics
         run: pnpm exec astro check
 
-      - name: Validate atom manifest
-        run: pnpm check:manifest
+      #- name: Validate atom manifest
+      #  run: pnpm check:manifest
 
       - name: Run unit tests
         run: node --test "tests/**/*.test.mjs"

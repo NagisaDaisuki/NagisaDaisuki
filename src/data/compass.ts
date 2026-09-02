@@ -37,6 +37,29 @@ export interface CompassShelf {
 
 export const compassData: CompassShelf[] = [
 	{
+		key: "aegisub",
+		name: "Aegisub",
+		icon: "material-symbols:subtitles-outline-rounded",
+		blurb: "Subtitling & typesetting software",
+		entries: [
+			{
+				label: "Aegisub Official",
+				href: "https://aegisub.org",
+				note: "Official site for Aegisub",
+			},
+			{
+				label: "Aegisub Vmoe",
+				href: "https://aegi.vmoe.info/",
+				note: "Community-maintained documentation",
+			},
+			{
+				label: "Aegisub Usual ASS effect tags",
+				href: "https://www.cnblogs.com/lzb1234/p/18668140#tid-sGtGRx",
+				note: "常用 ASS 特效标签速查表",
+			},
+		],
+	},
+	{
 		key: "dev",
 		name: "Development",
 		icon: "material-symbols:code-rounded",

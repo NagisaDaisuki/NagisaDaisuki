@@ -12,8 +12,9 @@ import { withUserConfig } from "../utils/config-overlay.ts";
 export const siteConfig: SiteConfig = withUserConfig("site", {
 	site: "https://blog.nagisadaisuki.dpdns.org",
 	base: "/",
-	title: "Shirone",
-	subtitle: "A Material 3 anime blog",
+	title: "ReVerSi",
+	// subtitle: "A Material 3 anime blog powered by Astro",
+	subtitle: "神秘M3E二次元博客网站",
 	// 电脑端顶栏标题与导航内容区域："left" 左对齐，"center" 居中。
 	topAppBar: {
 		contentAlign: "center",
@@ -70,13 +71,18 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 		homeText: {
 			// 仅在首页 Banner 中显示，标题与副标题会上下居中排列。
 			enable: true,
-			title: "Akeboshi Himari",
+			title: "Shion Sumika",
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				// "特別なことはないけど、君がいると十分です",
+				// "今でもあなたは私の光",
+				// "君ってさ、知らないうちに私の毎日になってたよ",
+				// "君と話すと、なんか毎日がちょっと楽しくなるんだ",
+				// "今日はなんでもない日。でも、ちょっとだけいい日",
+				"･･････ゴメンね、Pっち。あたし、嘘ばっかりついてる。",
+				"強いあたしの仮面を被るんだ。理想の自分を演じるの。",
+				"あたしが本気で踊るとこ、見せたげる♪",
+				"あたしのこと、もっと知ってほしいな",
+
 			],
 			typewriter: {
 				// 副标题逐字显示；关闭后直接显示完整副标题。
@@ -121,7 +127,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 	},
 	favicon: [
 		// 浏览器标签页图标，路径相对于 public 目录。
-		{ src: "/logo/icon.webp" },
+		{ src: "/logo/smk.webp" },
 	],
 });
 

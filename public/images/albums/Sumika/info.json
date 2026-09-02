@@ -1,0 +1,10 @@
+{
+   "title": "Sumika album",
+   "description": "This album is about Shion Sumika.",
+   "date": "2026-09-02",
+   "location": "Local archive",
+   "tags": ["local", "webp", "sumika"],
+   "layout": "masonry",
+   "columns": 3,
+   "hidden": false
+}

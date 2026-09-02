@@ -2,8 +2,6 @@
 
 Welcome to the site of **Shion Sumika** (紫云清夏)!
 
-::github{repo="NagisaDaisuki"}
-
 ## ✦ Design & Philosophy
 
 紫云清夏（Shiun Sumika） 是一个把「自由随性」与「认真执着」藏在同一副笑脸下的少女。

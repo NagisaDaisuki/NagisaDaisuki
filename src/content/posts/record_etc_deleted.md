@@ -3,7 +3,7 @@ title: 删除etc目录后如何把备份的etc目录重新恢复
 published: 2025-06-08
 description: "broken system recovery."
 category: linux
-tags: ["operating system", "linux", "etc"]
+tags: ["linux", "etc"]
 author: Akeboshi Himari
 draft: false
 --- 

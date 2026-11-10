@@ -4,7 +4,7 @@ published: 2026-11-10
 description: FFmpeg AVPacket 结构体分析：压缩数据的生命周期、内存模型、时间戳与引用计数机制
 image: ./Cover.jpg
 tags: ["FFmpeg", "AVPacket"]
-category: 音视频开发
+category: FFmpeg
 draft: false
 ---
 

@@ -4,7 +4,7 @@ published: 2026-11-10
 description: 从 FFmpeg/x264 编码流程到 Annex B 裸流解析，讲解宏块划分、帧内/帧间预测、变换量化、熵编码全链路，并分析有损环节、GOP/preset/码控与 SPS/PPS/IDR。
 image: ./Cover.webp
 tags: ["H.264", "视频编码", "FFmpeg", "x264"]
-category: 音视频
+category: FFmpeg
 draft: false
 ---
 
